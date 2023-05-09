@@ -27,7 +27,7 @@ const View = () => {
           {findArray.name} {findArray.lastName}
         </Card.Title>
         <Card.Text>{findArray.description}</Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Go there</Button>
       </Card.Body>
     </Card>
   );
